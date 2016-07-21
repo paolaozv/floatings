@@ -1,0 +1,25 @@
+/* Pon tu código css aqui */
+.yellow {
+	width: 160px;
+	height: 120px;
+	background-color: yellow;
+	float: left;
+}
+.blue {
+	width: 160px;
+	height: 120px;
+	background-color: blue;
+	float: left;
+}
+.red {
+	width: 160px;
+	height: 120px;
+	background-color: red;
+	float: left;
+}
+.box {
+	width: 700px;
+	border: 1px solid #737070;
+	margin: 5px;
+	overflow: hidden;
+}
